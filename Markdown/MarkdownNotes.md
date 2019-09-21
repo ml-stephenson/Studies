@@ -10,17 +10,17 @@ H1, H2, H3
 Just remove the spaces and it is **bold**
 
 # Italic
-*ITALIC CRAP *
-Just remove that space after crap and it gets *italicized*
+*ITALIC Words *
+Just remove that space after Words and it gets *italicized*
 
 # blockquote
-Drop in the little > at the start of the blockquote
+Drop in the little carrot > at the start of the blockquote
 > And it will look like this! - Matt Stephenson
 
 # Ordered Lists
 Drop in 1. 2. 3. and you'll make
 1. Ordered
-2. Fucking
+2. @#$%ing
 3. Lists
 
 Sweet.
